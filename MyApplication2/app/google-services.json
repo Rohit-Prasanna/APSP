@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491378219179",
+    "project_id": "apsp-20c59",
+    "storage_bucket": "apsp-20c59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491378219179:android:6c5391068b923f8e22ffee",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaarH29J7ug-Yc0OY_iKZlKgRqnd9x-gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
